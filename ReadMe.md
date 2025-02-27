@@ -1,0 +1,1 @@
+Porting FreeRTOS V11.1 (v202406.1-LTS)to STM32F407 Discovery. use Coocox CoIDE v1.7.6 and GCC 8_2018-q4-major. power by Le Minh Huu @copyright date: 27.2.2025

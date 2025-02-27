@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="10.3.1 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -Wall -g -nostartfiles -Map=FreeRTOS.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\FreeRTOS -TC:\CooCox\CoIDE\configuration\ProgramData\FreeRTOS/link.ld -g">
+      <target file="FreeRTOS.elf" lastModified="19546e6231e">
+         <source file="..\obj\heap_4.o" lastModified="19546e60278"/>
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="19546e60396"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="19546e604f6"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="19546e60647"/>
+         <source file="..\obj\main.o" lastModified="19546e607af"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="19546e6097c"/>
+         <source file="..\obj\timers.o" lastModified="19546e60b14"/>
+         <source file="..\obj\tasks.o" lastModified="19546e60d78"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="19546e60efc"/>
+         <source file="..\obj\list.o" lastModified="19546e61049"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="19546e611d9"/>
+         <source file="..\obj\syscalls.o" lastModified="19546e6149f"/>
+         <source file="..\obj\queue.o" lastModified="19546e6164e"/>
+         <source file="..\obj\port.o" lastModified="19546e6178f"/>
+         <source file="..\obj\stream_buffer.o" lastModified="19546e61907"/>
+         <source file="..\obj\croutine.o" lastModified="19546e61a2b"/>
+         <source file="..\obj\event_groups.o" lastModified="19546e61b95"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="19546e61d0a"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="19546e62009"/>
+      </target>
+   </processor>
+</history>
